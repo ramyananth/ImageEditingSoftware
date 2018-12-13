@@ -1,2 +1,3 @@
 # ImageEditingSoftware
-Developed a software to enable easy editing of images using Java.
+Used abstract window toolkit class and swings class to display
+the editing window
